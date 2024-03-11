@@ -1,3 +1,1 @@
-##0x00. ES6 Basics
-
-This directory contains work done on specialization ALX Javascript backend
+"This directory contains modules for various Javarscript aspects thought by ALX"
